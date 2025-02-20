@@ -13,6 +13,8 @@ The `True Shot` enchantment makes arrows ignore gravity.
 
 The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
+The true shot arrows disappear when the maximum height is exceeded.
+
 Version: `1.21.X`
 
 ## 📂 Installation
